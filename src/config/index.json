@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Nuestro Servicio",
-        "description": "En Melenudas by Real, nos especializamos en ofrecer productos cosméticos capilares de alta calidad para cuidar y embellecer tu cabello. Nuestra amplia gama de productos está formulada para satisfacer las necesidades de todo tipo de cabello, asegurando brillo, suavidad y salud en cada aplicación.",
+        "description": "En Melenudas by Real, nos especializamos en ofrecer productos cosméticos capilares,  corporales, faciales, de salud y bienestar de alta calidad,  no solo ofrecemos productos, sino una experiencia que te hará sentir bien por dentro y por fuera. Nos apasiona el bienestar, por lo que también encontrarás en nuestra tienda una selección de productos que promueven el equilibrio y la armonía en tu rutina diaria.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Todo por ti",
-        "description": "Con ingredientes cuidadosamente seleccionados, nos comprometemos a brindarte lo mejor para que tu melena luzca espectacular todos los días.",
+        "description": "Cada artículo ha sido cuidadosamente escogido para que disfrutes de los mejores beneficios. Te invitamos a explorar nuestra tienda y descubrir lo que podemos hacer por tu belleza y bienestar.",
         "img": "/assets/images/logo.png"
       }
     ]
@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 314 4474060",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "melenudasbyreal@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@melenudasbyreal",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Tiktok",
+        "description": "@melenudasbyreal",
+        "icon": "/assets/images/tiktok.png"
       }
     ]
   },
