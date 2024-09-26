@@ -21,7 +21,7 @@
     "title": "Melenudas ",
     "subtitle": "by Real",
     "description": "",
-    "img": "/assets/images/1.png",
+    "img": "/assets/images/2.png",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -37,7 +37,7 @@
       {
         "title": "Nuestro Servicio",
         "description": "En Melenudas by Real, nos especializamos en ofrecer productos cosméticos capilares,  corporales, faciales, de salud y bienestar de alta calidad,  no solo ofrecemos productos, sino una experiencia que te hará sentir bien por dentro y por fuera. Nos apasiona el bienestar, por lo que también encontrarás en nuestra tienda una selección de productos que promueven el equilibrio y la armonía en tu rutina diaria.",
-        "img": "/assets/images/2.png"
+        "img": "/assets/images/1.png"
       },
       {
         "title": "Todo por ti",
